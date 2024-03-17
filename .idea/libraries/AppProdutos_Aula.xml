@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AppProdutos_Aula">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/AppProdutos_Aula.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
