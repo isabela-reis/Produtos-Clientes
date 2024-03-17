@@ -12,7 +12,8 @@ Esse projeto foi desenvolvido para treinar os conhecimento obtidos em sala de au
 
 Desenvolvido na IDE NetBeans, utilizando lingugem Java e conceitos básicos de POO, como encapsulamento, Java Swing para desenvolvimento das telas, banco de dados relacional MySQL e o php MyAdmin.
 
-## 🎯 Resultado
+## 🎯 Resultado:
+
 <div align="left">
   <a href="https://github.com/isabela-reis">
   <img height="410"src="https://lh3.googleusercontent.com/pw/AL9nZEWdOYrSDe4lgH4e0nYgNNwtZ-EwkLYAyOS6ma63bBGST6sbTgn5v1yPUKExQVUsyu8XfZ0kcnso0LT218nNL1WyLZcVO_QPZlDQMvsh5kf_hTM28iCsvn76K2R5-CWj_AS2HCF8vMdxFdpAw_vs7zc=w615-h319-no?authuser=0"/>
