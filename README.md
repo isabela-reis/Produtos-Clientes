@@ -1,6 +1,6 @@
 # Sistema de Cadastro para Produtos e Clientes  <img height="40" src="https://github.com/isabela-reis/produtos-clientes/assets/101959073/79ee1d43-fe41-45f7-928e-9da54d0fc71c"/>
 
-Esse projeto foi desenvolvido para treinar os conhecimento obtidos em sala de aula sobre a API  JDBC para realizar a conexão com banco de dados e realizar consultas no mesmo realizando um CRUD.<br>
+Esse projeto foi desenvolvido para treinar os conhecimento obtidos em sala de aula sobre a API  JDBC, afim de realizar a conexão com banco de dados e fazer consultas no mesmo realizando um CRUD.<br>
 
 ## Funcionalidades: 
 
@@ -8,7 +8,7 @@ Esse projeto foi desenvolvido para treinar os conhecimento obtidos em sala de au
 <b>Tela 2-</b> Cadastra clientes, realiza busca dos mesmos, limpa a tela, atualiza os dados e deleta os dados.<br>
 <b>Tela 3-</b> Cadastra produtos,  realiza busca dos mesmos, limpa a tela, atualiza os dados e deleta os dados.<br>
 
-## Ferramentas Utlizadas:
+## Ferramentas Utilizadas:
 
 Desenvolvido na IDE NetBeans, utilizando lingugem Java e conceitos básicos de POO, como encapsulamento, Java Swing para desenvolvimento das telas, banco de dados relacional MySQL e o php MyAdmin.
 
