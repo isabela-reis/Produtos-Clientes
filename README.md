@@ -2,16 +2,17 @@
 
 Esse projeto foi desenvolvido para treinar os conhecimento obtidos em sala de aula sobre a API  JDBC, afim de realizar a conexão com banco de dados e fazer consultas no mesmo realizando um CRUD.<br>
 
-## Funcionalidades: 
+## 💡Funcionalidades: 
 
 <b>Tela 1-</b> Menu.<br>
 <b>Tela 2-</b> Cadastra clientes, realiza busca dos mesmos, limpa a tela, atualiza os dados e deleta os dados.<br>
 <b>Tela 3-</b> Cadastra produtos,  realiza busca dos mesmos, limpa a tela, atualiza os dados e deleta os dados.<br>
 
-## Ferramentas Utilizadas:
+## ⚒️ Ferramentas Utilizadas:
 
 Desenvolvido na IDE NetBeans, utilizando lingugem Java e conceitos básicos de POO, como encapsulamento, Java Swing para desenvolvimento das telas, banco de dados relacional MySQL e o php MyAdmin.
 
+## 🎯 Resultado
 <div align="left">
   <a href="https://github.com/isabela-reis">
   <img height="410"src="https://lh3.googleusercontent.com/pw/AL9nZEWdOYrSDe4lgH4e0nYgNNwtZ-EwkLYAyOS6ma63bBGST6sbTgn5v1yPUKExQVUsyu8XfZ0kcnso0LT218nNL1WyLZcVO_QPZlDQMvsh5kf_hTM28iCsvn76K2R5-CWj_AS2HCF8vMdxFdpAw_vs7zc=w615-h319-no?authuser=0"/>
